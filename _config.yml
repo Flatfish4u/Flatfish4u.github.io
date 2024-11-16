@@ -3,3 +3,5 @@ description: Por Ejemplo
 theme: minima
 plugins:
   - jekyll-feed
+repository: Flatfish4u/Flatfish4u.github.io
+url: https://Flatfish4u.github.io
