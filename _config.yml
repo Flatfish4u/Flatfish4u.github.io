@@ -1,0 +1,5 @@
+title: Temporary Title
+description: Por Ejemplo
+theme: minima
+plugins:
+  - jekyll-feed
