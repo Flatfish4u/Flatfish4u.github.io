@@ -6,3 +6,9 @@ plugins:
 repository: Flatfish4u/Flatfish4u.github.io
 url: https://Flatfish4u.github.io
 baseurl: ""
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
