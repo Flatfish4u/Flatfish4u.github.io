@@ -1,14 +1,35 @@
-title: Temporary Title
+title: Look Up [↑]
 description: Por Ejemplo
 theme: minima
+
+# Site settings
+baseurl: ""
+url: "https://Flatfish4u.github.io"
+repository: Flatfish4u/Flatfish4u.github.io
+
+# Build settings
+future: true
+showFuturePosts: true
+markdown: kramdown
+
+# Plugin settings
 plugins:
   - jekyll-feed
-repository: Flatfish4u/Flatfish4u.github.io
-url: https://Flatfish4u.github.io
-baseurl: ""
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
+# Navigation
 nav:
   - title: "Home"
     url: /
   - title: "About"
     url: /about/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
