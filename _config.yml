@@ -9,7 +9,6 @@ repository: Flatfish4u/Flatfish4u.github.io
 
 # Build settings
 future: true
-showFuturePosts: true
 markdown: kramdown
 
 # Plugin settings
