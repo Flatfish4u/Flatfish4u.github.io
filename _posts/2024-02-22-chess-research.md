@@ -34,7 +34,7 @@ The complete research paper examines these findings in detail, including:
 - Implications for understanding ADHD cognitive processing
 - Future research directions
 
-[Download Full Paper (PDF)](/assets/papers/Chess Study Final Draft .pdf)
+[Download Full Paper (PDF)](/assets/papers/chess_study.pdf)
 
 ## Implications
 This research provides valuable insights into how ADHD affects decision-making in complex, time-sensitive situations. The findings have potential applications in:

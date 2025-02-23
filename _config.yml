@@ -25,6 +25,9 @@ nav:
     url: /about/
 
 # Defaults
+include:
+  - assets
+
 defaults:
   - scope:
       path: ""
