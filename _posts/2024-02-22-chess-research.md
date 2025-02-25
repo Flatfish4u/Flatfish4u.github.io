@@ -20,11 +20,10 @@ This research investigates temporal differences in chess gameplay between ADHD a
 ### Time Management Patterns
 - ADHD players showed distinct temporal patterns across different time controls
 - In Blitz games (1000-1400 ELO), ADHD players progressively increased time usage from +4.56s to +19.12s over 40 moves
-- In Rapid games, pattern reversed with ADHD players consistently faster
+- In Rapid games, pattern reversed with ADHD players making moves consistently faster
 
 ### Decision Making Under Pressure
 - Both groups showed increased error rates under time pressure
-- ADHD players demonstrated unique adaptation strategies
 - Time control format significantly modulated ADHD effects
 
 ## Research Paper
